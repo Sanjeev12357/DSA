@@ -1,0 +1,1 @@
+cout<<"recieving end"<<s<<endl;
